@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building the project. TOOL: Maven:TESTing for Part 1:8.2C'
+                echo 'Building the project. TOOL: Maven'
             }
         }
 
