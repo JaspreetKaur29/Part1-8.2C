@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Testing for 8.2C TASK: Building the project. TOOL: Maven'
+                echo 'Testing for 8.2C TASK for SIT753: Building the project. TOOL: Maven'
             }
         }
 
